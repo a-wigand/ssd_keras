@@ -99,4 +99,5 @@ local*
 
 # Personal edits
 **/logs
-**/pre-trained-models
+**/datasets
+**/trained-models
